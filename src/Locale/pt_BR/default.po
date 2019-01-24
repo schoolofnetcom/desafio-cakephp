@@ -1,0 +1,245 @@
+# LANGUAGE translation of CakePHP Application
+# Copyright YEAR NAME <EMAIL@ADDRESS>
+#
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: PROJECT VERSION\n"
+"POT-Creation-Date: 2019-01-21 21:06+0000\n"
+"PO-Revision-Date: YYYY-mm-DD HH:MM+ZZZZ\n"
+"Last-Translator: NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <EMAIL@ADDRESS>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=utf-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+
+#: Controller/PostsController.php:58;83
+msgid "The post has been saved."
+msgstr "O artigo foi salvo com sucesso"
+
+#: Controller/PostsController.php:62;87
+msgid "The post could not be saved. Please, try again."
+msgstr "O artigo não pode ser salvo. Por favor, tente novamente."
+
+#: Controller/PostsController.php:105
+msgid "The post has been deleted."
+msgstr "O artigo foi deletado."
+
+#: Controller/PostsController.php:107
+msgid "The post could not be deleted. Please, try again."
+msgstr "O artigo não pode ser deletado. Por favor, tente novamente"
+
+#: Controller/UsersController.php:55;79
+msgid "The user has been saved."
+msgstr "O usuário foi salvo com sucesso"
+
+#: Controller/UsersController.php:59;83
+msgid "The user could not be saved. Please, try again."
+msgstr "O usuário não pode ser salvo. Por favor, tente novamente."
+
+#: Controller/UsersController.php:100
+msgid "The user has been deleted."
+msgstr "O usuário foi deletado."
+
+#: Controller/UsersController.php:102
+msgid "The user could not be deleted. Please, try again."
+msgstr "O usuário não pode ser deletado. Por favor, tente novamente"
+
+#: Template/Layout/error.ctp:35
+msgid "Error"
+msgstr "Erro"
+
+#: Template/Layout/error.ctp:43
+msgid "Back"
+msgstr "Voltar"
+
+#: Template/Posts/add.ctp:9
+#: Template/Posts/edit.ctp:9
+#: Template/Posts/index.ctp:9;25
+#: Template/Posts/view.ctp:9
+#: Template/Users/add.ctp:9
+#: Template/Users/edit.ctp:9
+#: Template/Users/index.ctp:9;25
+#: Template/Users/view.ctp:9;53
+msgid "Actions"
+msgstr "Ações"
+
+#: Template/Posts/add.ctp:10
+#: Template/Posts/edit.ctp:16
+#: Template/Posts/view.ctp:12
+#: Template/Users/add.ctp:11
+#: Template/Users/edit.ctp:17
+#: Template/Users/index.ctp:11
+#: Template/Users/view.ctp:14
+msgid "List Posts"
+msgstr "Listar artigos"
+
+#: Template/Posts/add.ctp:11
+#: Template/Posts/edit.ctp:17
+#: Template/Posts/index.ctp:11
+#: Template/Posts/view.ctp:14
+#: Template/Users/add.ctp:10
+#: Template/Users/edit.ctp:16
+#: Template/Users/view.ctp:12
+msgid "List Users"
+msgstr "Listar usuários"
+
+#: Template/Posts/add.ctp:12
+#: Template/Posts/edit.ctp:18
+#: Template/Posts/index.ctp:12
+#: Template/Posts/view.ctp:15
+#: Template/Users/index.ctp:10
+#: Template/Users/view.ctp:13
+msgid "New User"
+msgstr "Novo usuário"
+
+#: Template/Posts/add.ctp:18
+msgid "Add Post"
+msgstr "Adicionar artigo"
+
+#: Template/Posts/add.ctp:25
+#: Template/Posts/edit.ctp:31
+#: Template/Users/add.ctp:24
+#: Template/Users/edit.ctp:30
+msgid "Submit"
+msgstr "Enviar"
+
+#: Template/Posts/edit.ctp:11
+#: Template/Posts/index.ctp:39
+#: Template/Users/edit.ctp:11
+#: Template/Users/index.ctp:39
+#: Template/Users/view.ctp:66
+msgid "Delete"
+msgstr "Deletar"
+
+#: Template/Posts/edit.ctp:13
+#: Template/Posts/index.ctp:39
+#: Template/Posts/view.ctp:11
+#: Template/Users/edit.ctp:13
+#: Template/Users/index.ctp:39
+#: Template/Users/view.ctp:11;66
+msgid "Are you sure you want to delete # {0}?"
+msgstr "Tem certeza que você quer remover # {0}?"
+
+#: Template/Posts/edit.ctp:24
+#: Template/Posts/view.ctp:10
+msgid "Edit Post"
+msgstr "Editar artigo"
+
+#: Template/Posts/index.ctp:10
+#: Template/Posts/view.ctp:13
+#: Template/Users/add.ctp:12
+#: Template/Users/edit.ctp:18
+#: Template/Users/index.ctp:12
+#: Template/Users/view.ctp:15
+msgid "New Post"
+msgstr "Novo artigo"
+
+#: Template/Posts/index.ctp:16
+msgid "Posts"
+msgstr "Artigo"
+
+#: Template/Posts/index.ctp:37
+#: Template/Users/index.ctp:37
+#: Template/Users/view.ctp:64
+msgid "View"
+msgstr "Ver"
+
+#: Template/Posts/index.ctp:38
+#: Template/Users/index.ctp:38
+#: Template/Users/view.ctp:65
+msgid "Edit"
+msgstr "Editar
+
+#: Template/Posts/index.ctp:47
+#: Template/Users/index.ctp:47
+msgid "first"
+msgstr "primeiro"
+
+#: Template/Posts/index.ctp:48
+#: Template/Users/index.ctp:48
+msgid "previous"
+msgstr "anterior"
+
+#: Template/Posts/index.ctp:50
+#: Template/Users/index.ctp:50
+msgid "next"
+msgstr "próximo"
+
+#: Template/Posts/index.ctp:51
+#: Template/Users/index.ctp:51
+msgid "last"
+msgstr "último"
+
+#: Template/Posts/index.ctp:53
+#: Template/Users/index.ctp:53
+msgid "Page {{page}} of {{pages}}, showing {{current}} record(s) out of {{count}} total"
+msgstr "Página {{page}} de {{pages}}, exibindo {{current}} registro(s) de um total de {{count}}"
+
+#: Template/Posts/view.ctp:11
+msgid "Delete Post"
+msgstr "Deletar artigo"
+
+#: Template/Posts/view.ctp:22
+#: Template/Users/view.ctp:48
+msgid "Title"
+msgstr "Título"
+
+#: Template/Posts/view.ctp:26
+msgid "User"
+msgstr "Usuário"
+
+#: Template/Posts/view.ctp:30
+#: Template/Users/view.ctp:30;47
+msgid "Id"
+msgstr ""
+
+#: Template/Posts/view.ctp:34
+#: Template/Users/view.ctp:34;51
+msgid "Created"
+msgstr "Criado"
+
+#: Template/Posts/view.ctp:38
+#: Template/Users/view.ctp:38;52
+msgid "Modified"
+msgstr "Modificado"
+
+#: Template/Posts/view.ctp:43
+#: Template/Users/view.ctp:49
+msgid "Body"
+msgstr "Conteúdo"
+
+#: Template/Users/add.ctp:18
+msgid "Add User"
+msgstr "Adicionar usuário"
+
+#: Template/Users/edit.ctp:24
+#: Template/Users/view.ctp:10
+msgid "Edit User"
+msgstr "Editar usuário"
+
+#: Template/Users/index.ctp:16
+msgid "Users"
+msgstr "Usuários"
+
+#: Template/Users/view.ctp:11
+msgid "Delete User"
+msgstr "Apagar usuário"
+
+#: Template/Users/view.ctp:22
+msgid "Username"
+msgstr "Nome de usuário"
+
+#: Template/Users/view.ctp:26
+msgid "Password"
+msgstr "Senha"
+
+#: Template/Users/view.ctp:43
+msgid "Related Posts"
+msgstr "Artigos relacionados"
+
+#: Template/Users/view.ctp:50
+msgid "User Id"
+msgstr "Id de usuário"
+
